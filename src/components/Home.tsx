@@ -7,7 +7,7 @@ const Home = () => {
       <div 
         className="relative h-screen bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `url('https://res.cloudinary.com/dvcvxhzmt/image/upload/v1734730064/wjw6821_Hero_Image_A_powerful_symbolic_landscape_that_hints_at__0f798eee-71d7-4f0b-8deb-2625788cdae6_qmmctp.png')`
+          backgroundImage: `url('https://res.cloudinary.com/dvcvxhzmt/image/upload/v1734732710/wjw6821_Hero_Image_A_powerful_symbolic_landscape_that_hints_a_3aba9999-b302-4a40-b203-eda028ef3768_1_oxvsvg.png')`
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-40" />
